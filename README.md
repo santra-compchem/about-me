@@ -12,7 +12,7 @@
 
 - **Profession:** Postdoc
 - Specializing in **Density Functional Theory (DFT)**, **quantum chemistry**, and molecular simulations
-- Passionate about applying **machine learning** to accelerate chemical discovery
+- Passionate about applying **machine learning** to DFT
 - Regularly scripting in **Python** and **Bash** to automate and analyze complex workflows
 
 ---
