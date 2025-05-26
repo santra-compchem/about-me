@@ -1,17 +1,17 @@
 # 👋 Hi, I’m Golokesh Santra
 
-### 🧪 Computational Chemist | Quantum Chemistry Enthusiast | Machine Learning Explorer
+### 🧪 Computational Chemistry | Quantum Chemistry | Machine Learning
 
 ---
 
-**A computational chemist trying to find reasons behind chemical reactions and biological processes with the help of quantum chemistry and ML.**
+**A computational chemist trying to find reasons behind chemical reactions and biological processes with the help of quantum chemistry and ML**
 
 ---
 
 ## 🔬 About Me
 
-- **Profession:** Computational Chemistry
-- Specializing in **Density Functional Theory (DFT)**, quantum chemistry, and molecular simulations
+- **Profession:** Postdoc
+- Specializing in **Density Functional Theory (DFT)**, **quantum chemistry**, and molecular simulations
 - Passionate about applying **machine learning** to accelerate chemical discovery
 - Regularly scripting in **Python** and **Bash** to automate and analyze complex workflows
 
@@ -28,10 +28,8 @@
 ## 💡 Top Skills & Technologies
 
 - **Quantum Chemistry:** DFT, ab initio calculations
-- **Programming:** Python, Bash scripting
-- **Machine Learning:** Chemical property prediction & analysis
-- **Data Analysis:** Automation of computational workflows
-
+- **Programming:** Python, Bash scripting, Fortran, R
+- **Machine Learning:** Database generation,Chemical property prediction & analysis
 ---
 
 ## 🌐 Find Me Online
